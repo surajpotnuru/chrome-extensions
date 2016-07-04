@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "ShowTIme",
+	"version": "1",
+	"description": "Extension to show current date and time",
+	"browser_action":{
+		"default_title":"ShowTime",
+		"default_icon":"icon.png",
+		"default_popup":"popup.html"
+	}
+}
